@@ -4014,6 +4014,7 @@ textarea.form-control-lg {
   justify-content: space-between;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+ 
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -11284,7 +11285,7 @@ textarea.form-control-lg {
 }
 .top-container{
   
-  background-color: black;
+background-color: black;
 margin-bottom:0px;
 padding-bottom: 15px;
 font-family: Georgia, 'Times New Roman', Times, serif;
